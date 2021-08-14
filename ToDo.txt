@@ -1,0 +1,21 @@
+Interaction:
+Pickup/Hold - Done
+Drop item/Snap down/Do NOT drop item in other object - Partway Done
+Open/Close - Done
+
+Inventory:
+Keys - Done
+
+Interactables:
+Pickup Interface - Done
+Unlocking based on player inventory - Done
+Open based on Key Code
+states saved
+
+Examin:
+Hold item close - Move further works, closer fails
+rotate item around
+
+Listen server:
+JIP Allowed
+Server browser via steam online subystem
